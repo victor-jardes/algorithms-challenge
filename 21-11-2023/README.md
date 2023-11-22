@@ -1,0 +1,3 @@
+# minMaxSum challenger
+
+more descript later...
